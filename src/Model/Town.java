@@ -9,6 +9,8 @@ package Model;
  *
  * @author jeron
  */
-public enum UserType {
-    ADMIN,FISCAL,GENERAL_FISCAL,ACCOUNTANT
+public class Town {
+    private String name;
+    private int townType;
+    private User accountant;
 }
