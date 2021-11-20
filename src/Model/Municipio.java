@@ -9,7 +9,7 @@ package Model;
  *
  * @author jeron
  */
-public class Town {
+public class Municipio {
     private String name;
     private int townType;
     private User accountant;
